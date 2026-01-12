@@ -1,0 +1,7 @@
+user_id,product_id,product_name,category,purchase_date
+1,101,Shoes,Fashion,2025-11-01
+1,104,Jacket,Fashion,2025-11-01
+2,102,Laptop,Electronics,2025-11-02
+2,105,Mouse,Electronics,2025-11-02
+3,101,Shoes,Fashion,2025-11-03
+3,105,Mouse,Electronics,2025-11-03
